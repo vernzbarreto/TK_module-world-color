@@ -1,7 +1,7 @@
 {
     "name": "Module_World_Color",
     "version": "0.0.2",
-    "description": "Extension for YahBoom YB_Module-World V0.0.2",
+    "description": "Extension for TechnokidsPH TK_Module-World V0.0.2",
     "license": "MIT",
     "dependencies": {
         "core": "*",
