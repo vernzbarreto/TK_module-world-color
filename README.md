@@ -1,6 +1,6 @@
 # Module_World_Color
 
-Extension for Yahboom
+Extension for TechnokidsPH
 
 ## License
 
